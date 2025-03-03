@@ -1,5 +1,5 @@
 <h1 align="left">Olá! Eu sou Francisco Barbosa.</h1>
-- 💻 Student and Back-end Web Developer
+
 ###
 
 <div align="center">
